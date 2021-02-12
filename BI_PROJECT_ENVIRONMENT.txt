@@ -1,6 +1,9 @@
-BI Projects Environment:
+BI Projects Environment[ Power BI / MSBI / AZURE BI]:
+
+The below explanation you will find in the MNCs.
 
 You will find the below tools, technologies, processes, approaches, and methodologies.
+
 Without that you can't implement properly.
 
 1) Incase you are working in a DWH Project + BI Reporting
@@ -49,6 +52,7 @@ Without that you can't implement properly.
 	Mostly used:
 
 	MSBI:  SQL Server Agent
+
 	Power BI: a) Native Scheduling at Power BI Service / Server  b) Microsoft Flow [Power Automate]
 
 	Note: Other Scheduling: Control M, Trilleum, Autosys etc.
@@ -58,9 +62,9 @@ Without that you can't implement properly.
 
 	Emails:  Outlook, Lotus, Gmail etc.
 
-	Chat: Link, Gmail Chat, Skype Chat etc.
+	Chat: Chat in Teams, Link, Gmail Chat, Skype Chat etc.
 
-6. Docs Sharing
+6. Documents  Sharing
 
 	Mostly Used:
 
