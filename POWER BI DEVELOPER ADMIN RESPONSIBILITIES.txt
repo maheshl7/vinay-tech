@@ -1,0 +1,33 @@
+Roles in the Project
+==================
+a)Power BI Developer
+
+	1. Create reports/ dashboards at Power BI Desktop
+	2. Provide Security to the reports
+	3. Implement business logics using DAX and M lang [Python, R]
+	4. Using different visuals, concepts, items depending on the situation
+	5.Publish report
+	6. Model data
+	7. Unit testing [White Box Testing]: Code Test / Data Validation Test
+
+
+b)Power BI Admin
+
+	1. Manage workspaces
+	2. Add users to the workspaces
+	3. Allow users for the security assigned
+	4. Refresh management verification
+	5. LOgging verification
+	6. Auditing verifiction
+	7. Custom connectivity validation[ Embedding check]
+	8. Working on Data Sources issues
+	9. Managing accounts [Pro, Premium etc...] Admin Portal
+
+c) BI Tester
+
+	Quality Testing [Functional Testing / Blackbox testing] of Reports and Dashboards
+
+
+
+
+

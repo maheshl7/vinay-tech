@@ -1,0 +1,12 @@
+GitHub Versioning
+
+a) If you are confident about document you are uploading, directly do it in the master.
+    So that that document versioning maintained.
+   Incase you are not confident / most of the IT companies not allowing directly to maintain versioning. So, we need to follow the below process.
+ 1. Create a branch called Test
+ 2. Upload the modified document
+ 3. Create a pull request
+ 4. Merge the pulled request
+ 5. Automatically Test branch will be deleted.
+
+Note: This versioning is close to TFS [Team Foundation Server] versioning.
