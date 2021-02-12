@@ -1,0 +1,100 @@
+BI Projects Environment:
+
+You will find the below tools, technologies, processes, approaches, and methodologies.
+Without that you can't implement properly.
+
+1) Incase you are working in a DWH Project + BI Reporting
+
+	a) DWH approach
+	
+		There are two approaches a)INMON  b) KIMBALL
+
+		KIMBALL approach is the preferable approach.
+
+		Approach: Bottom up approach [Data Marts--> DWH]
+
+	b) DWH Life Cycle
+
+		Agile methodology
+
+2. One Life Cycle [ SDLC: Software Development Life Cycle]
+
+	Usage: The process or the stpes followed to implement a product solution / to build a product.
+	
+	Mostly Used:
+
+	Agile - Scrum implementation
+
+	Note: Other SDLC Models: Waterfall, Iterative Incremental Model, V model etc...
+
+3. One Versioning Tool
+
+	Usage:
+
+	Maintaining multiple copies of the same document with multiple changes in a single area.
+
+	mostly Used:
+
+	Mostly for Microsoft applications TFS, GitHub, VSS etc. used
+
+	Note: Other versioning tools--> Sub Version, PVCS etc.
+
+
+4. One Scheduling Tool
+
+	Usage:
+
+	Run the applications regularly in the production / live environment
+
+	Mostly used:
+
+	MSBI:  SQL Server Agent
+	Power BI: a) Native Scheduling at Power BI Service / Server  b) Microsoft Flow [Power Automate]
+
+	Note: Other Scheduling: Control M, Trilleum, Autosys etc.
+
+
+5. Communication method
+
+	Emails:  Outlook, Lotus, Gmail etc.
+
+	Chat: Link, Gmail Chat, Skype Chat etc.
+
+6. Docs Sharing
+
+	Mostly Used:
+
+	SharePoint, GitHub
+
+
+	Others:  Email, Shared Folder, Versioning Tool etc.
+
+7. Teams and Environments
+
+	Minimum three environments companies maintain and three teams required
+
+	1st Team
+		Development Team
+	
+			1. Create Application [Report / Package / Cube etc.]
+			2. Perform Unit Test / White Box Testing [ Created Code Testing]
+
+	2nd Team
+
+		Testing Team
+
+			1. The above created application functional testing / black box testing
+			2. Ensuring proper functionality it has
+			3. They work on ticketing / defect tracking tools such as HP Quality Center, BigZilla, Excel, Rational Rose etc. 
+
+	3rd Team
+
+		Production Team
+
+			1. Multiple Levels available [L1, L2,L3,L4 ] and Production Issues (Incidents, Problem Tickets) raised
+				with P1,P2,P2,P4 priorities
+
+			2. They work on production tools such as Service Now, Azure Service Desk etc.
+
+
+	Note: Other Teams [ UAT: User Acceptance Testing or Customer Testing], Integration Testing, Smoke Test, Regression Test etc.
